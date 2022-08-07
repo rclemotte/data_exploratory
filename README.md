@@ -1,2 +1,2 @@
 # data_exploratory
-Análisis de datos de Titanic
+Análisis de datos de supermercado / COPIADO DE KAGGLE
